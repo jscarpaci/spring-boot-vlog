@@ -5,6 +5,9 @@ The app will achieve this by integrating Ring Doorbell video with AWS Rekognitio
 
 The app uses Spring MVC, JSP, Postgres, and AWS Rekognition.  Spring MVC is java configured without xml due to my bias against xml configuration.
 
+## Database and User info
+Please email john@jmsconsulting.com for database and user account info on this app
+
 ## Handy Commands
 
 This section highlights lesser known (to me) commands that are useful in development.
